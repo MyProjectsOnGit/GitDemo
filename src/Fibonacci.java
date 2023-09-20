@@ -30,8 +30,14 @@ public class Fibonacci {
 		System.out.println("End of code:");
 		System.out.println("End of code:");
 		System.out.println("End of code");
+		
+		System.out.println("End of code");
+		System.out.println("End of code:");
+		System.out.println("End of code:");
+		System.out.println("End of code");
+	}
 	}
 
-}
+
 
 
