@@ -26,6 +26,12 @@ public class Fibonacci {
 		value = Integer.parseInt(count);
 		c = value;
 		fibonacci(c);
+		System.out.println("End of code");
+		System.out.println("End of code:");
+		System.out.println("End of code:");
+		System.out.println("End of code");
 	}
 
 }
+
+
